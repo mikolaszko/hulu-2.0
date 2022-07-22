@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Title
 
-## Getting Started
+BoardGameEnthusiast
 
-First, run the development server:
+## Description
 
-```bash
-npm run dev
-# or
-yarn dev
+Hello everyone! This Next.js w/ Sanity CMS, Sanity e-commerce for board game lovers. Projects like these aka the really complex ones are what drives me forward to be an even better software engineer. BoardGameEnthusiast is such a personal work of mine, it was an absolute pleasure to design in and code it. Couldn't be more happier
+
+Demo will be in the about section
+
+### Dependencies
+
+All of them are in the package.json, it's a big built but if you want to check it out there's a link in the about section ^^^
+
+### Executing program
+
+You can just type the piece of code in your terminal at a client folder
+
+```
+npm run dev in the e-commerce-board-games
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Authors
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Contributors names and contact info
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Mikołaj Sodzawiczny
+[@AjSodzawiczny](https://twitter.com/AjSodzawiczny)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Version History
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+20/07/2022 0.1v
